@@ -9,7 +9,7 @@ JavaScript, HTML, CSS, Ruby, Bootstrap, Node.JS, ReactJS, jQuery, AJAX, SASS Exp
 PowerShell, Exchange Online, EOP, SharePoint, Azure Active Directory, ATP, TCP/IP, DNS, POP, IMAP, DLP, SSL/TLS, ADSync/DirSync, GPO, Windows Server 2016
 
  
-- 📫 How to reach me: bk.shirvani@gmail.com 
+- 📫 How to reach me: bk.shirvani [at] gmail [dot] com 
 - 😄 Pronouns: BA bak  --->   first A like car  second a like cat  
 
 
