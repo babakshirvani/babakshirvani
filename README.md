@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Babak Shirvani
-#### I am a Full-stack web developer 
-I have+2 years of experience in the IT industry seeking to obtain a creative and challenging position. Having a positive outlook, and I am always willing to learn new traits. I work well both independently and as part of a team.
+<!-- #### I am a Full-stack web developer 
+I have+2 years of experience in the IT industry seeking to obtain a creative and challenging position. Having a positive outlook, and I am always willing to learn new traits. I work well both independently and as part of a team. -->
 
 #### Skills: 
 JavaScript, HTML, CSS, Ruby, Bootstrap, Node.JS, ReactJS, jQuery, AJAX, SASS Express, Storybook, JEST, Cypress, poltergeist, capybara, RSpec, Ruby on Rails, MVC PostgreSQL, MYSQL, Active Record, WebSockets, JSON, Swift, python, Django, flask Object Oriented Programming, style-component, Git/Github 
