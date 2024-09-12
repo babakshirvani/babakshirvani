@@ -3,7 +3,7 @@
 I have+2 years of experience in the IT industry seeking to obtain a creative and challenging position. Having a positive outlook, and I am always willing to learn new traits. I work well both independently and as part of a team. -->
 
 #### Skills: 
-python, RPA Framework, TesseractOCR, AWS, Django, flask, Object Oriented Programming, JavaScript, HTML, CSS, Ruby, Bootstrap, Node.JS, ReactJS, jQuery, AJAX, SASS Express, Storybook, JEST, Cypress, poltergeist, capybara, RSpec, Ruby on Rails, MVC PostgreSQL, MYSQL, Active Record, WebSockets, JSON, Swift, style-component, Git/Github 
+Python, RPA Framework, TesseractOCR, AWS, Django, flask, Object Oriented Programming, JavaScript, HTML, CSS, Ruby, Bootstrap, Node.JS, ReactJS, jQuery, AJAX, SASS Express, Storybook, JEST, Cypress, poltergeist, capybara, RSpec, Ruby on Rails, MVC PostgreSQL, MYSQL, Active Record, WebSockets, JSON, Swift, style-component, Git/Github 
 
 #### IT related Skills:
 PowerShell, Exchange Online, EOP, SharePoint, Azure Active Directory, ATP, TCP/IP, DNS, POP, IMAP, DLP, SSL/TLS, ADSync/DirSync, GPO, Windows Server 2016
