@@ -8,9 +8,6 @@ Python, RPA Framework, TesseractOCR, AWS, Django, flask, Object Oriented Program
 #### IT related Skills:
 PowerShell, Exchange Online, EOP, SharePoint, Azure Active Directory, ATP, TCP/IP, DNS, POP, IMAP, DLP, SSL/TLS, ADSync/DirSync, GPO, Windows Server 2016
 
- 
-- 📫 How to reach me: bk.shirvani [at] gmail [dot] com 
-- 😄 Pronouns: BA bak  --->   first A like car  second a like cat  
 
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/babakshirvani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/babak-shirvani/)  
